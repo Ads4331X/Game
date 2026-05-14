@@ -1,0 +1,68 @@
+{"frames": {
+
+"balrog-stage-0.png":
+{
+	"frame": {"x":515,"y":1,"w":512,"h":172},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":172},
+	"sourceSize": {"w":512,"h":172}
+},
+"balrog-stage-1.png":
+{
+	"frame": {"x":1029,"y":1,"w":512,"h":165},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":165},
+	"sourceSize": {"w":512,"h":165}
+},
+"balrog-stage-2.png":
+{
+	"frame": {"x":1,"y":1,"w":512,"h":181},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":181},
+	"sourceSize": {"w":512,"h":181}
+},
+"balrog-stage-3.png":
+{
+	"frame": {"x":1740,"y":1,"w":197,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":197,"h":74},
+	"sourceSize": {"w":197,"h":74}
+},
+"balrog-stage-4.png":
+{
+	"frame": {"x":1740,"y":77,"w":197,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":197,"h":74},
+	"sourceSize": {"w":197,"h":74}
+},
+"balrog-stage-5.png":
+{
+	"frame": {"x":1543,"y":1,"w":195,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":195,"h":86},
+	"sourceSize": {"w":195,"h":86}
+},
+"balrog-stage-6.png":
+{
+	"frame": {"x":1543,"y":89,"w":195,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":195,"h":86},
+	"sourceSize": {"w":195,"h":86}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "stage.png",
+	"format": "RGBA8888",
+	"size": {"w":1938,"h":183},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ac9906b8558a97749119946ea6e9d233:98a392a8728038236b0a47eea9a291ac:dcc063df6f3815610360c9b4df6dd69d$"
+}
+}

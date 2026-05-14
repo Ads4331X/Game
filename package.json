@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "phaser": "^4.1.0",
+    "typescript": "^6.0.3",
+    "vite": "^8.0.12"
+  }
+}

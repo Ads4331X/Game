@@ -1,0 +1,4828 @@
+{"frames": {
+
+"Ken Masters_0.png":
+{
+	"frame": {"x":3311,"y":615,"w":81,"h":94},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":302,"y":280,"w":81,"h":94},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_1.png":
+{
+	"frame": {"x":2031,"y":615,"w":104,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":279,"y":284,"w":104,"h":92},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_2.png":
+{
+	"frame": {"x":3331,"y":484,"w":122,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":259,"y":289,"w":122,"h":86},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_3.png":
+{
+	"frame": {"x":718,"y":897,"w":118,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":258,"y":275,"w":118,"h":100},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_4.png":
+{
+	"frame": {"x":814,"y":1639,"w":113,"h":108},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":258,"y":266,"w":113,"h":108},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_5.png":
+{
+	"frame": {"x":22,"y":1792,"w":108,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":258,"y":264,"w":108,"h":110},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_6.png":
+{
+	"frame": {"x":2113,"y":1639,"w":109,"h":109},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":258,"y":264,"w":109,"h":109},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_7.png":
+{
+	"frame": {"x":22,"y":1488,"w":106,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":258,"y":264,"w":106,"h":106},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_8.png":
+{
+	"frame": {"x":1662,"y":1042,"w":103,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":258,"y":264,"w":103,"h":103},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_9.png":
+{
+	"frame": {"x":2431,"y":754,"w":104,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":258,"y":267,"w":104,"h":98},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_10.png":
+{
+	"frame": {"x":3497,"y":484,"w":105,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":258,"y":275,"w":105,"h":87},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_11.png":
+{
+	"frame": {"x":641,"y":484,"w":105,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":259,"y":277,"w":105,"h":83},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_12.png":
+{
+	"frame": {"x":790,"y":484,"w":103,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":262,"y":277,"w":103,"h":83},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_13.png":
+{
+	"frame": {"x":601,"y":359,"w":104,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":261,"y":284,"w":104,"h":76},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_14.png":
+{
+	"frame": {"x":537,"y":22,"w":104,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":262,"y":306,"w":104,"h":42},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_15.png":
+{
+	"frame": {"x":319,"y":22,"w":22,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":261,"y":308,"w":22,"h":37},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_16.png":
+{
+	"frame": {"x":486,"y":2117,"w":63,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":270,"y":215,"w":63,"h":127},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_17.png":
+{
+	"frame": {"x":1140,"y":2117,"w":63,"h":131},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":270,"y":215,"w":63,"h":131},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_18.png":
+{
+	"frame": {"x":1247,"y":2117,"w":63,"h":131},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":270,"y":215,"w":63,"h":131},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_19.png":
+{
+	"frame": {"x":824,"y":2117,"w":63,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":270,"y":219,"w":63,"h":128},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_20.png":
+{
+	"frame": {"x":141,"y":2117,"w":62,"h":125},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":271,"y":216,"w":62,"h":125},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_21.png":
+{
+	"frame": {"x":1354,"y":2117,"w":61,"h":132},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":272,"y":216,"w":61,"h":132},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_22.png":
+{
+	"frame": {"x":3420,"y":1949,"w":61,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":272,"y":218,"w":61,"h":122},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_23.png":
+{
+	"frame": {"x":3650,"y":1949,"w":62,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":270,"y":218,"w":62,"h":123},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_24.png":
+{
+	"frame": {"x":3100,"y":2117,"w":67,"h":145},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":269,"y":199,"w":67,"h":145},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_25.png":
+{
+	"frame": {"x":2982,"y":2117,"w":74,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":269,"y":191,"w":74,"h":144},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_26.png":
+{
+	"frame": {"x":931,"y":2117,"w":75,"h":129},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":271,"y":186,"w":75,"h":129},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_27.png":
+{
+	"frame": {"x":172,"y":1488,"w":74,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":272,"y":185,"w":74,"h":106},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_28.png":
+{
+	"frame": {"x":1809,"y":1042,"w":78,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":273,"y":179,"w":78,"h":103},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_29.png":
+{
+	"frame": {"x":880,"y":897,"w":76,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":179,"w":76,"h":100},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_30.png":
+{
+	"frame": {"x":2579,"y":754,"w":75,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":179,"w":75,"h":98},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_31.png":
+{
+	"frame": {"x":939,"y":754,"w":74,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":276,"y":180,"w":74,"h":97},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_32.png":
+{
+	"frame": {"x":3646,"y":484,"w":68,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":281,"y":182,"w":68,"h":87},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_33.png":
+{
+	"frame": {"x":3299,"y":359,"w":64,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":283,"y":183,"w":64,"h":80},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_34.png":
+{
+	"frame": {"x":1747,"y":240,"w":60,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":186,"w":60,"h":73},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_35.png":
+{
+	"frame": {"x":2778,"y":22,"w":51,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":293,"y":188,"w":51,"h":58},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_36.png":
+{
+	"frame": {"x":685,"y":22,"w":42,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":298,"y":194,"w":42,"h":45},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_37.png":
+{
+	"frame": {"x":240,"y":22,"w":35,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":300,"y":203,"w":35,"h":33},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_38.png":
+{
+	"frame": {"x":22,"y":22,"w":30,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":304,"y":205,"w":30,"h":26},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_39.png":
+{
+	"frame": {"x":1406,"y":22,"w":78,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":311,"y":359,"w":78,"h":51},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_40.png":
+{
+	"frame": {"x":1954,"y":22,"w":79,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":311,"y":357,"w":79,"h":55},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_41.png":
+{
+	"frame": {"x":3925,"y":22,"w":80,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":311,"y":353,"w":80,"h":62},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_42.png":
+{
+	"frame": {"x":3452,"y":22,"w":83,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":311,"y":353,"w":83,"h":60},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_43.png":
+{
+	"frame": {"x":22,"y":128,"w":83,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":311,"y":353,"w":83,"h":62},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_44.png":
+{
+	"frame": {"x":149,"y":128,"w":88,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":311,"y":353,"w":88,"h":62},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_45.png":
+{
+	"frame": {"x":2873,"y":22,"w":85,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":311,"y":354,"w":85,"h":59},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_46.png":
+{
+	"frame": {"x":2341,"y":22,"w":89,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":311,"y":355,"w":89,"h":56},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_47.png":
+{
+	"frame": {"x":1662,"y":22,"w":90,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":311,"y":358,"w":90,"h":52},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_48.png":
+{
+	"frame": {"x":1528,"y":22,"w":90,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":311,"y":359,"w":90,"h":51},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_49.png":
+{
+	"frame": {"x":834,"y":22,"w":61,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":298,"y":359,"w":61,"h":48},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_50.png":
+{
+	"frame": {"x":290,"y":1488,"w":114,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":279,"y":327,"w":114,"h":106},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_51.png":
+{
+	"frame": {"x":3758,"y":484,"w":98,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":285,"y":339,"w":98,"h":87},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_52.png":
+{
+	"frame": {"x":1057,"y":754,"w":96,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":285,"y":336,"w":96,"h":97},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_53.png":
+{
+	"frame": {"x":3560,"y":754,"w":98,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":335,"w":98,"h":99},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_54.png":
+{
+	"frame": {"x":3702,"y":754,"w":99,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":335,"w":99,"h":99},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_55.png":
+{
+	"frame": {"x":3845,"y":754,"w":101,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":289,"y":335,"w":101,"h":99},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_56.png":
+{
+	"frame": {"x":3653,"y":615,"w":100,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":292,"y":337,"w":100,"h":95},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_57.png":
+{
+	"frame": {"x":937,"y":484,"w":100,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":293,"y":343,"w":100,"h":83},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_58.png":
+{
+	"frame": {"x":1765,"y":484,"w":99,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":294,"y":342,"w":99,"h":84},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_59.png":
+{
+	"frame": {"x":2478,"y":484,"w":92,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":300,"y":341,"w":92,"h":85},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_60.png":
+{
+	"frame": {"x":2614,"y":484,"w":91,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":300,"y":341,"w":91,"h":85},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_61.png":
+{
+	"frame": {"x":3407,"y":359,"w":89,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":300,"y":340,"w":89,"h":80},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_62.png":
+{
+	"frame": {"x":3540,"y":359,"w":89,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":300,"y":340,"w":89,"h":80},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_63.png":
+{
+	"frame": {"x":3673,"y":359,"w":83,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":302,"y":341,"w":83,"h":80},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_64.png":
+{
+	"frame": {"x":1263,"y":359,"w":66,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":302,"y":344,"w":66,"h":77},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_65.png":
+{
+	"frame": {"x":3266,"y":1190,"w":59,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":282,"w":59,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_66.png":
+{
+	"frame": {"x":1931,"y":1042,"w":59,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":284,"w":59,"h":103},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_67.png":
+{
+	"frame": {"x":3369,"y":1190,"w":59,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":282,"w":59,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_68.png":
+{
+	"frame": {"x":971,"y":1639,"w":59,"h":108},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":279,"w":59,"h":108},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_69.png":
+{
+	"frame": {"x":1074,"y":1639,"w":59,"h":108},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":279,"w":59,"h":108},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_70.png":
+{
+	"frame": {"x":2294,"y":1488,"w":59,"h":107},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":280,"w":59,"h":107},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_71.png":
+{
+	"frame": {"x":448,"y":1488,"w":59,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":281,"w":59,"h":106},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_72.png":
+{
+	"frame": {"x":3433,"y":240,"w":58,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":315,"w":58,"h":75},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_73.png":
+{
+	"frame": {"x":2397,"y":1488,"w":67,"h":107},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":290,"y":281,"w":67,"h":107},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_74.png":
+{
+	"frame": {"x":174,"y":1792,"w":61,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":291,"y":278,"w":61,"h":110},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_75.png":
+{
+	"frame": {"x":2508,"y":1488,"w":54,"h":107},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":291,"y":277,"w":54,"h":107},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_76.png":
+{
+	"frame": {"x":2266,"y":1639,"w":52,"h":109},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":290,"y":276,"w":52,"h":109},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_77.png":
+{
+	"frame": {"x":279,"y":1792,"w":52,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":278,"w":52,"h":110},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_78.png":
+{
+	"frame": {"x":1177,"y":1639,"w":52,"h":108},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":280,"w":52,"h":108},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_79.png":
+{
+	"frame": {"x":3131,"y":1042,"w":58,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":284,"y":284,"w":58,"h":104},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_80.png":
+{
+	"frame": {"x":3472,"y":1190,"w":58,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":290,"y":283,"w":58,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_81.png":
+{
+	"frame": {"x":2606,"y":1488,"w":63,"h":107},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":282,"y":281,"w":63,"h":107},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_82.png":
+{
+	"frame": {"x":375,"y":1792,"w":56,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":278,"w":56,"h":110},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_83.png":
+{
+	"frame": {"x":2713,"y":1488,"w":55,"h":107},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":277,"w":55,"h":107},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_84.png":
+{
+	"frame": {"x":2362,"y":1639,"w":55,"h":109},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":276,"w":55,"h":109},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_85.png":
+{
+	"frame": {"x":475,"y":1792,"w":56,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":278,"w":56,"h":110},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_86.png":
+{
+	"frame": {"x":1273,"y":1639,"w":62,"h":108},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":289,"y":280,"w":62,"h":108},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_87.png":
+{
+	"frame": {"x":3233,"y":1042,"w":64,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":291,"y":284,"w":64,"h":104},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_88.png":
+{
+	"frame": {"x":3574,"y":1190,"w":56,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":289,"y":283,"w":56,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_89.png":
+{
+	"frame": {"x":386,"y":2117,"w":56,"h":126},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":289,"y":260,"w":56,"h":126},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_90.png":
+{
+	"frame": {"x":2812,"y":1488,"w":53,"h":107},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":269,"w":53,"h":107},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_91.png":
+{
+	"frame": {"x":174,"y":484,"w":60,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":283,"y":276,"w":60,"h":82},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_92.png":
+{
+	"frame": {"x":2278,"y":240,"w":58,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":285,"y":279,"w":58,"h":74},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_93.png":
+{
+	"frame": {"x":3638,"y":128,"w":55,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":291,"y":281,"w":55,"h":68},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_94.png":
+{
+	"frame": {"x":797,"y":240,"w":58,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":285,"y":279,"w":58,"h":70},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_95.png":
+{
+	"frame": {"x":2749,"y":484,"w":60,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":283,"y":275,"w":60,"h":85},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_96.png":
+{
+	"frame": {"x":2461,"y":1639,"w":53,"h":109},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":266,"w":53,"h":109},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_97.png":
+{
+	"frame": {"x":2371,"y":1949,"w":53,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":292,"y":260,"w":53,"h":118},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_98.png":
+{
+	"frame": {"x":1651,"y":1949,"w":61,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":282,"y":269,"w":61,"h":116},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_99.png":
+{
+	"frame": {"x":1000,"y":897,"w":57,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":276,"w":57,"h":100},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_100.png":
+{
+	"frame": {"x":695,"y":128,"w":72,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":284,"w":72,"h":63},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_101.png":
+{
+	"frame": {"x":1991,"y":128,"w":71,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":281,"y":275,"w":71,"h":66},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_102.png":
+{
+	"frame": {"x":3737,"y":128,"w":56,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":271,"w":56,"h":68},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_103.png":
+{
+	"frame": {"x":2077,"y":22,"w":78,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":271,"y":282,"w":78,"h":55},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_104.png":
+{
+	"frame": {"x":1674,"y":1792,"w":52,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":293,"y":268,"w":52,"h":112},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_105.png":
+{
+	"frame": {"x":593,"y":2117,"w":53,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":292,"y":260,"w":53,"h":127},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_106.png":
+{
+	"frame": {"x":1197,"y":754,"w":58,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":290,"w":58,"h":97},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_107.png":
+{
+	"frame": {"x":2059,"y":359,"w":56,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":309,"w":56,"h":78},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_108.png":
+{
+	"frame": {"x":2159,"y":359,"w":56,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":309,"w":56,"h":78},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_109.png":
+{
+	"frame": {"x":1197,"y":754,"w":58,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":290,"w":58,"h":97},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_110.png":
+{
+	"frame": {"x":3674,"y":1190,"w":57,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":295,"y":281,"w":57,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_111.png":
+{
+	"frame": {"x":3341,"y":1042,"w":64,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":289,"y":282,"w":64,"h":104},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_112.png":
+{
+	"frame": {"x":3449,"y":1042,"w":57,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":289,"y":282,"w":57,"h":104},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_113.png":
+{
+	"frame": {"x":749,"y":359,"w":56,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":297,"y":314,"w":56,"h":76},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_114.png":
+{
+	"frame": {"x":1851,"y":240,"w":61,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":315,"w":61,"h":73},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_115.png":
+{
+	"frame": {"x":3535,"y":240,"w":56,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":315,"w":56,"h":75},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_116.png":
+{
+	"frame": {"x":3002,"y":22,"w":97,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":328,"w":97,"h":59},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_117.png":
+{
+	"frame": {"x":1081,"y":484,"w":57,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":299,"y":306,"w":57,"h":83},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_118.png":
+{
+	"frame": {"x":3856,"y":1949,"w":58,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":302,"y":267,"w":58,"h":124},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_119.png":
+{
+	"frame": {"x":1101,"y":897,"w":67,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":302,"y":289,"w":67,"h":100},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_120.png":
+{
+	"frame": {"x":1157,"y":128,"w":62,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":299,"y":305,"w":62,"h":64},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_121.png":
+{
+	"frame": {"x":2059,"y":359,"w":56,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":309,"w":56,"h":78},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_122.png":
+{
+	"frame": {"x":1197,"y":754,"w":58,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":290,"w":58,"h":97},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_123.png":
+{
+	"frame": {"x":3775,"y":1190,"w":64,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":289,"y":282,"w":64,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_124.png":
+{
+	"frame": {"x":1379,"y":1639,"w":66,"h":108},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":289,"y":279,"w":66,"h":108},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_125.png":
+{
+	"frame": {"x":3635,"y":240,"w":59,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":315,"w":59,"h":75},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_126.png":
+{
+	"frame": {"x":2259,"y":359,"w":69,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":312,"w":69,"h":78},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_127.png":
+{
+	"frame": {"x":2698,"y":754,"w":77,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":279,"y":289,"w":77,"h":98},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_128.png":
+{
+	"frame": {"x":3900,"y":484,"w":108,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":260,"y":300,"w":108,"h":87},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_129.png":
+{
+	"frame": {"x":760,"y":615,"w":98,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":264,"y":297,"w":98,"h":90},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_130.png":
+{
+	"frame": {"x":1212,"y":897,"w":75,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":282,"y":287,"w":75,"h":100},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_131.png":
+{
+	"frame": {"x":3550,"y":1042,"w":57,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":289,"y":282,"w":57,"h":104},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_132.png":
+{
+	"frame": {"x":1331,"y":897,"w":93,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":286,"w":93,"h":100},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_133.png":
+{
+	"frame": {"x":450,"y":1042,"w":90,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":277,"y":287,"w":90,"h":102},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_134.png":
+{
+	"frame": {"x":1468,"y":897,"w":66,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":289,"w":66,"h":100},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_135.png":
+{
+	"frame": {"x":2034,"y":1042,"w":97,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":273,"y":286,"w":97,"h":103},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_136.png":
+{
+	"frame": {"x":2819,"y":754,"w":95,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":272,"y":288,"w":95,"h":98},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_137.png":
+{
+	"frame": {"x":1299,"y":754,"w":70,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":289,"w":70,"h":97},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_138.png":
+{
+	"frame": {"x":1413,"y":754,"w":58,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":290,"w":58,"h":97},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_139.png":
+{
+	"frame": {"x":22,"y":897,"w":91,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":271,"y":286,"w":91,"h":99},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_140.png":
+{
+	"frame": {"x":683,"y":754,"w":92,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":286,"w":92,"h":96},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_141.png":
+{
+	"frame": {"x":1515,"y":754,"w":69,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":283,"y":290,"w":69,"h":97},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_142.png":
+{
+	"frame": {"x":1413,"y":754,"w":58,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":290,"w":58,"h":97},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_143.png":
+{
+	"frame": {"x":3883,"y":1190,"w":62,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":282,"w":62,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_144.png":
+{
+	"frame": {"x":3651,"y":1042,"w":73,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":276,"y":283,"w":73,"h":104},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_145.png":
+{
+	"frame": {"x":2958,"y":754,"w":90,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":259,"y":289,"w":90,"h":98},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_146.png":
+{
+	"frame": {"x":3092,"y":754,"w":81,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":268,"y":289,"w":81,"h":98},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_147.png":
+{
+	"frame": {"x":1578,"y":897,"w":61,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":287,"w":61,"h":100},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_148.png":
+{
+	"frame": {"x":2558,"y":1639,"w":65,"h":109},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":285,"y":278,"w":65,"h":109},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_149.png":
+{
+	"frame": {"x":3797,"y":615,"w":84,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":277,"y":292,"w":84,"h":95},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_150.png":
+{
+	"frame": {"x":999,"y":615,"w":80,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":296,"w":80,"h":91},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_151.png":
+{
+	"frame": {"x":1123,"y":615,"w":81,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":296,"w":81,"h":91},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_152.png":
+{
+	"frame": {"x":2563,"y":615,"w":74,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":294,"w":74,"h":93},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_153.png":
+{
+	"frame": {"x":1628,"y":754,"w":59,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":290,"w":59,"h":97},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_154.png":
+{
+	"frame": {"x":2853,"y":484,"w":91,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":265,"y":302,"w":91,"h":85},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_155.png":
+{
+	"frame": {"x":1263,"y":128,"w":89,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":276,"y":322,"w":89,"h":64},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_156.png":
+{
+	"frame": {"x":1300,"y":240,"w":84,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":277,"y":316,"w":84,"h":72},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_157.png":
+{
+	"frame": {"x":1182,"y":484,"w":90,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":256,"y":306,"w":90,"h":83},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_158.png":
+{
+	"frame": {"x":2474,"y":22,"w":101,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":252,"y":343,"w":101,"h":57},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_159.png":
+{
+	"frame": {"x":2873,"y":128,"w":88,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":271,"y":331,"w":88,"h":67},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_160.png":
+{
+	"frame": {"x":2798,"y":359,"w":77,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":280,"y":311,"w":77,"h":79},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_161.png":
+{
+	"frame": {"x":1731,"y":754,"w":58,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":290,"w":58,"h":97},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_162.png":
+{
+	"frame": {"x":3041,"y":1949,"w":90,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":266,"w":90,"h":121},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_163.png":
+{
+	"frame": {"x":3958,"y":1949,"w":93,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":285,"y":263,"w":93,"h":124},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_164.png":
+{
+	"frame": {"x":690,"y":2117,"w":90,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":260,"w":90,"h":127},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_165.png":
+{
+	"frame": {"x":2909,"y":1488,"w":74,"h":107},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":280,"w":74,"h":107},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_166.png":
+{
+	"frame": {"x":551,"y":1488,"w":59,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":281,"w":59,"h":106},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_167.png":
+{
+	"frame": {"x":2179,"y":615,"w":91,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":291,"y":296,"w":91,"h":92},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_168.png":
+{
+	"frame": {"x":3925,"y":615,"w":95,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":291,"y":293,"w":95,"h":95},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_169.png":
+{
+	"frame": {"x":3217,"y":754,"w":91,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":291,"y":290,"w":91,"h":98},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_170.png":
+{
+	"frame": {"x":2919,"y":359,"w":76,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":290,"y":310,"w":76,"h":79},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_171.png":
+{
+	"frame": {"x":1373,"y":359,"w":61,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":313,"w":61,"h":77},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_172.png":
+{
+	"frame": {"x":654,"y":1488,"w":59,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":281,"w":59,"h":106},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_173.png":
+{
+	"frame": {"x":1489,"y":1639,"w":63,"h":108},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":285,"y":279,"w":63,"h":108},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_174.png":
+{
+	"frame": {"x":1770,"y":1792,"w":78,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":270,"y":275,"w":78,"h":112},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_175.png":
+{
+	"frame": {"x":2722,"y":1792,"w":80,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":267,"y":274,"w":80,"h":113},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_176.png":
+{
+	"frame": {"x":2846,"y":1792,"w":78,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":269,"y":274,"w":78,"h":113},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_177.png":
+{
+	"frame": {"x":2968,"y":1792,"w":78,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":269,"y":274,"w":78,"h":113},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_178.png":
+{
+	"frame": {"x":3090,"y":1792,"w":78,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":269,"y":274,"w":78,"h":113},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_179.png":
+{
+	"frame": {"x":3027,"y":1488,"w":59,"h":107},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":280,"w":59,"h":107},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_180.png":
+{
+	"frame": {"x":1892,"y":1792,"w":59,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":275,"w":59,"h":112},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_181.png":
+{
+	"frame": {"x":3212,"y":1792,"w":61,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":274,"w":61,"h":113},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_182.png":
+{
+	"frame": {"x":1995,"y":1792,"w":61,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":275,"w":61,"h":112},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_183.png":
+{
+	"frame": {"x":2100,"y":1792,"w":61,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":275,"w":61,"h":112},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_184.png":
+{
+	"frame": {"x":1681,"y":128,"w":57,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":292,"y":321,"w":57,"h":65},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_185.png":
+{
+	"frame": {"x":1782,"y":128,"w":58,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":292,"y":321,"w":58,"h":65},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_186.png":
+{
+	"frame": {"x":3005,"y":128,"w":68,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":319,"w":68,"h":67},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_187.png":
+{
+	"frame": {"x":2106,"y":128,"w":65,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":290,"y":320,"w":65,"h":66},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_188.png":
+{
+	"frame": {"x":1478,"y":359,"w":63,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":292,"y":309,"w":63,"h":77},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_189.png":
+{
+	"frame": {"x":1419,"y":1949,"w":47,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":304,"y":269,"w":47,"h":115},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_190.png":
+{
+	"frame": {"x":529,"y":1949,"w":48,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":303,"y":272,"w":48,"h":114},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_191.png":
+{
+	"frame": {"x":989,"y":1792,"w":50,"h":111},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":302,"y":275,"w":50,"h":111},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_192.png":
+{
+	"frame": {"x":1596,"y":1639,"w":54,"h":108},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":294,"y":278,"w":54,"h":108},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_193.png":
+{
+	"frame": {"x":3130,"y":1488,"w":59,"h":107},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":280,"w":59,"h":107},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_194.png":
+{
+	"frame": {"x":1694,"y":1639,"w":59,"h":108},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":279,"w":59,"h":108},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_195.png":
+{
+	"frame": {"x":2205,"y":1792,"w":58,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":275,"w":58,"h":112},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_196.png":
+{
+	"frame": {"x":1963,"y":2117,"w":57,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":252,"w":57,"h":135},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_197.png":
+{
+	"frame": {"x":1566,"y":2117,"w":57,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":254,"w":57,"h":133},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_198.png":
+{
+	"frame": {"x":3233,"y":1488,"w":59,"h":107},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":280,"w":59,"h":107},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_199.png":
+{
+	"frame": {"x":2307,"y":1792,"w":58,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":275,"w":58,"h":112},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_200.png":
+{
+	"frame": {"x":3317,"y":1792,"w":62,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":274,"w":62,"h":113},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_201.png":
+{
+	"frame": {"x":3423,"y":1792,"w":61,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":274,"w":61,"h":113},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_202.png":
+{
+	"frame": {"x":22,"y":615,"w":49,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":270,"y":301,"w":49,"h":87},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_203.png":
+{
+	"frame": {"x":444,"y":615,"w":49,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":270,"y":299,"w":49,"h":89},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_204.png":
+{
+	"frame": {"x":2314,"y":615,"w":61,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":280,"y":295,"w":61,"h":92},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_205.png":
+{
+	"frame": {"x":3989,"y":1190,"w":62,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":284,"y":282,"w":62,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_206.png":
+{
+	"frame": {"x":621,"y":1949,"w":61,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":273,"w":61,"h":114},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_207.png":
+{
+	"frame": {"x":726,"y":1949,"w":61,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":273,"w":61,"h":114},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_208.png":
+{
+	"frame": {"x":831,"y":1949,"w":61,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":273,"w":61,"h":114},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_209.png":
+{
+	"frame": {"x":936,"y":1949,"w":86,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":263,"y":273,"w":86,"h":114},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_210.png":
+{
+	"frame": {"x":1066,"y":1949,"w":84,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":265,"y":273,"w":84,"h":114},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_211.png":
+{
+	"frame": {"x":2409,"y":1792,"w":71,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":276,"y":275,"w":71,"h":112},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_212.png":
+{
+	"frame": {"x":3336,"y":1488,"w":59,"h":107},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":280,"w":59,"h":107},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_213.png":
+{
+	"frame": {"x":3528,"y":1792,"w":59,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":274,"w":59,"h":113},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_214.png":
+{
+	"frame": {"x":3631,"y":1792,"w":61,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":274,"w":61,"h":113},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_215.png":
+{
+	"frame": {"x":3736,"y":1792,"w":63,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":284,"y":274,"w":63,"h":113},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_216.png":
+{
+	"frame": {"x":3843,"y":1792,"w":75,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":272,"y":274,"w":75,"h":113},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_217.png":
+{
+	"frame": {"x":3962,"y":1792,"w":75,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":272,"y":274,"w":75,"h":113},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_218.png":
+{
+	"frame": {"x":22,"y":1949,"w":77,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":270,"y":274,"w":77,"h":113},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_219.png":
+{
+	"frame": {"x":143,"y":1949,"w":88,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":259,"y":274,"w":88,"h":113},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_220.png":
+{
+	"frame": {"x":275,"y":1949,"w":86,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":261,"y":274,"w":86,"h":113},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_221.png":
+{
+	"frame": {"x":2563,"y":615,"w":74,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":294,"w":74,"h":93},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_222.png":
+{
+	"frame": {"x":1248,"y":615,"w":87,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":280,"y":296,"w":87,"h":91},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_223.png":
+{
+	"frame": {"x":3738,"y":240,"w":59,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":315,"w":59,"h":75},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_224.png":
+{
+	"frame": {"x":1956,"y":240,"w":73,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":283,"y":317,"w":73,"h":73},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_225.png":
+{
+	"frame": {"x":22,"y":754,"w":59,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":279,"y":275,"w":59,"h":95},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_226.png":
+{
+	"frame": {"x":3436,"y":615,"w":70,"h":94},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":268,"y":274,"w":70,"h":94},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_227.png":
+{
+	"frame": {"x":2372,"y":359,"w":56,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":282,"y":275,"w":56,"h":78},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_228.png":
+{
+	"frame": {"x":1316,"y":484,"w":53,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":290,"y":272,"w":53,"h":83},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_229.png":
+{
+	"frame": {"x":3768,"y":1042,"w":79,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":283,"w":79,"h":104},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_230.png":
+{
+	"frame": {"x":2175,"y":1042,"w":81,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":284,"w":81,"h":103},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_231.png":
+{
+	"frame": {"x":584,"y":1042,"w":81,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":285,"w":81,"h":102},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_232.png":
+{
+	"frame": {"x":2300,"y":1042,"w":73,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":273,"y":284,"w":73,"h":103},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_233.png":
+{
+	"frame": {"x":22,"y":1339,"w":72,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":282,"w":72,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_234.png":
+{
+	"frame": {"x":138,"y":1339,"w":70,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":282,"w":70,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_235.png":
+{
+	"frame": {"x":252,"y":1339,"w":69,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":276,"y":282,"w":69,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_236.png":
+{
+	"frame": {"x":365,"y":1339,"w":59,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":282,"w":59,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_237.png":
+{
+	"frame": {"x":2681,"y":615,"w":84,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":262,"y":294,"w":84,"h":93},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_238.png":
+{
+	"frame": {"x":157,"y":897,"w":74,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":272,"y":288,"w":74,"h":99},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_239.png":
+{
+	"frame": {"x":2417,"y":1042,"w":82,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":263,"y":284,"w":82,"h":103},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_240.png":
+{
+	"frame": {"x":22,"y":2117,"w":75,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":272,"y":263,"w":75,"h":124},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_241.png":
+{
+	"frame": {"x":2468,"y":1949,"w":74,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":272,"y":268,"w":74,"h":119},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_242.png":
+{
+	"frame": {"x":2586,"y":1949,"w":74,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":272,"y":268,"w":74,"h":119},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_243.png":
+{
+	"frame": {"x":1194,"y":1949,"w":76,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":270,"y":273,"w":76,"h":114},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_244.png":
+{
+	"frame": {"x":3891,"y":1042,"w":73,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":273,"y":283,"w":73,"h":104},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_245.png":
+{
+	"frame": {"x":468,"y":1339,"w":70,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":276,"y":282,"w":70,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_246.png":
+{
+	"frame": {"x":582,"y":1339,"w":59,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":282,"w":59,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_247.png":
+{
+	"frame": {"x":757,"y":1488,"w":81,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":272,"y":281,"w":81,"h":106},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_248.png":
+{
+	"frame": {"x":22,"y":1190,"w":62,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":266,"y":283,"w":62,"h":104},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_249.png":
+{
+	"frame": {"x":1683,"y":897,"w":92,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":238,"y":287,"w":92,"h":100},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_250.png":
+{
+	"frame": {"x":2996,"y":897,"w":87,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":239,"y":286,"w":87,"h":101},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_251.png":
+{
+	"frame": {"x":2543,"y":1042,"w":79,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":248,"y":284,"w":79,"h":103},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_252.png":
+{
+	"frame": {"x":882,"y":1488,"w":57,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":283,"y":284,"w":57,"h":106},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_253.png":
+{
+	"frame": {"x":685,"y":1339,"w":60,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":282,"w":60,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_254.png":
+{
+	"frame": {"x":405,"y":1949,"w":80,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":276,"y":274,"w":80,"h":113},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_255.png":
+{
+	"frame": {"x":2667,"y":1639,"w":76,"h":109},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":265,"y":278,"w":76,"h":109},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_256.png":
+{
+	"frame": {"x":789,"y":1339,"w":71,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":249,"y":282,"w":71,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_257.png":
+{
+	"frame": {"x":983,"y":1488,"w":70,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":250,"y":281,"w":70,"h":106},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_258.png":
+{
+	"frame": {"x":1097,"y":1488,"w":70,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":250,"y":281,"w":70,"h":106},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_259.png":
+{
+	"frame": {"x":1211,"y":1488,"w":63,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":253,"y":281,"w":63,"h":106},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_260.png":
+{
+	"frame": {"x":1318,"y":1488,"w":54,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":270,"y":281,"w":54,"h":106},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_261.png":
+{
+	"frame": {"x":128,"y":1190,"w":71,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":282,"w":71,"h":104},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_262.png":
+{
+	"frame": {"x":243,"y":1190,"w":97,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":249,"y":282,"w":97,"h":104},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_263.png":
+{
+	"frame": {"x":384,"y":1190,"w":94,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":252,"y":282,"w":94,"h":104},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_264.png":
+{
+	"frame": {"x":522,"y":1190,"w":71,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":282,"w":71,"h":104},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_265.png":
+{
+	"frame": {"x":904,"y":1339,"w":62,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":285,"y":282,"w":62,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_266.png":
+{
+	"frame": {"x":709,"y":1042,"w":89,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":256,"y":285,"w":89,"h":102},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_267.png":
+{
+	"frame": {"x":637,"y":1190,"w":88,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":255,"y":283,"w":88,"h":104},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_268.png":
+{
+	"frame": {"x":842,"y":1042,"w":99,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":246,"y":285,"w":99,"h":102},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_269.png":
+{
+	"frame": {"x":3127,"y":897,"w":105,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":241,"y":286,"w":105,"h":101},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_270.png":
+{
+	"frame": {"x":3276,"y":897,"w":88,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":258,"y":286,"w":88,"h":101},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_271.png":
+{
+	"frame": {"x":1010,"y":1339,"w":87,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":259,"y":282,"w":87,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_272.png":
+{
+	"frame": {"x":1141,"y":1339,"w":87,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":259,"y":282,"w":87,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_273.png":
+{
+	"frame": {"x":1272,"y":1339,"w":87,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":259,"y":282,"w":87,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_274.png":
+{
+	"frame": {"x":1403,"y":1339,"w":72,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":282,"w":72,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_275.png":
+{
+	"frame": {"x":1519,"y":1339,"w":60,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":282,"w":60,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_276.png":
+{
+	"frame": {"x":1623,"y":1339,"w":54,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":294,"y":281,"w":54,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_277.png":
+{
+	"frame": {"x":1721,"y":1339,"w":66,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":302,"y":281,"w":66,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_278.png":
+{
+	"frame": {"x":2787,"y":1639,"w":103,"h":109},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":271,"y":277,"w":103,"h":109},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_279.png":
+{
+	"frame": {"x":2934,"y":1639,"w":101,"h":109},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":272,"y":277,"w":101,"h":109},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_280.png":
+{
+	"frame": {"x":1831,"y":1339,"w":66,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":302,"y":281,"w":66,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_281.png":
+{
+	"frame": {"x":1941,"y":1339,"w":54,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":294,"y":281,"w":54,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_282.png":
+{
+	"frame": {"x":685,"y":1339,"w":60,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":282,"w":60,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_283.png":
+{
+	"frame": {"x":3079,"y":1639,"w":69,"h":109},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":277,"w":69,"h":109},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_284.png":
+{
+	"frame": {"x":2039,"y":1339,"w":70,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":278,"y":282,"w":70,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_285.png":
+{
+	"frame": {"x":2153,"y":1339,"w":63,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":263,"y":282,"w":63,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_286.png":
+{
+	"frame": {"x":769,"y":1190,"w":102,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":215,"y":283,"w":102,"h":104},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_287.png":
+{
+	"frame": {"x":2260,"y":1339,"w":99,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":221,"y":282,"w":99,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_288.png":
+{
+	"frame": {"x":1416,"y":1488,"w":68,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":257,"y":281,"w":68,"h":106},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_289.png":
+{
+	"frame": {"x":985,"y":1042,"w":62,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":270,"y":285,"w":62,"h":102},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_290.png":
+{
+	"frame": {"x":3352,"y":754,"w":62,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":280,"y":289,"w":62,"h":98},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_291.png":
+{
+	"frame": {"x":1091,"y":1042,"w":57,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":285,"y":285,"w":57,"h":102},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_292.png":
+{
+	"frame": {"x":915,"y":1190,"w":57,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":289,"y":283,"w":57,"h":104},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_293.png":
+{
+	"frame": {"x":2403,"y":1339,"w":58,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":289,"y":282,"w":58,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_294.png":
+{
+	"frame": {"x":2380,"y":240,"w":57,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":316,"w":57,"h":74},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_295.png":
+{
+	"frame": {"x":2481,"y":240,"w":91,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":253,"y":316,"w":91,"h":74},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_296.png":
+{
+	"frame": {"x":2616,"y":240,"w":88,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":256,"y":316,"w":88,"h":74},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_297.png":
+{
+	"frame": {"x":2380,"y":240,"w":57,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":316,"w":57,"h":74},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_298.png":
+{
+	"frame": {"x":3841,"y":240,"w":58,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":315,"w":58,"h":75},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_299.png":
+{
+	"frame": {"x":2988,"y":484,"w":72,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":272,"y":306,"w":72,"h":85},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_300.png":
+{
+	"frame": {"x":1379,"y":615,"w":68,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":276,"y":300,"w":68,"h":91},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_301.png":
+{
+	"frame": {"x":1833,"y":754,"w":81,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":262,"y":294,"w":81,"h":97},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_302.png":
+{
+	"frame": {"x":2169,"y":2117,"w":55,"h":138},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":253,"w":55,"h":138},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_303.png":
+{
+	"frame": {"x":1667,"y":2117,"w":58,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":285,"y":258,"w":58,"h":133},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_304.png":
+{
+	"frame": {"x":1769,"y":2117,"w":58,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":285,"y":258,"w":58,"h":133},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_305.png":
+{
+	"frame": {"x":2704,"y":1949,"w":75,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":268,"y":272,"w":75,"h":119},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_306.png":
+{
+	"frame": {"x":3408,"y":897,"w":80,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":263,"y":290,"w":80,"h":101},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_307.png":
+{
+	"frame": {"x":2472,"y":359,"w":65,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":278,"y":309,"w":65,"h":78},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_308.png":
+{
+	"frame": {"x":2380,"y":240,"w":57,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":316,"w":57,"h":74},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_309.png":
+{
+	"frame": {"x":3841,"y":240,"w":58,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":315,"w":58,"h":75},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_310.png":
+{
+	"frame": {"x":171,"y":240,"w":66,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":277,"y":321,"w":66,"h":69},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_311.png":
+{
+	"frame": {"x":281,"y":240,"w":104,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":240,"y":322,"w":104,"h":69},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_312.png":
+{
+	"frame": {"x":429,"y":240,"w":100,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":244,"y":322,"w":100,"h":69},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_313.png":
+{
+	"frame": {"x":573,"y":240,"w":78,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":265,"y":321,"w":78,"h":69},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_314.png":
+{
+	"frame": {"x":3841,"y":240,"w":58,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":315,"w":58,"h":75},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_315.png":
+{
+	"frame": {"x":1428,"y":240,"w":69,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":289,"y":315,"w":69,"h":72},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_316.png":
+{
+	"frame": {"x":3837,"y":128,"w":62,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":278,"y":319,"w":62,"h":68},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_317.png":
+{
+	"frame": {"x":3117,"y":128,"w":115,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":236,"y":321,"w":115,"h":67},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_318.png":
+{
+	"frame": {"x":2215,"y":128,"w":116,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":241,"y":321,"w":116,"h":66},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_319.png":
+{
+	"frame": {"x":3276,"y":128,"w":61,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":280,"y":320,"w":61,"h":67},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_320.png":
+{
+	"frame": {"x":3381,"y":128,"w":55,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":293,"y":320,"w":55,"h":67},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_321.png":
+{
+	"frame": {"x":695,"y":240,"w":58,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":318,"w":58,"h":69},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_322.png":
+{
+	"frame": {"x":1541,"y":240,"w":61,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":315,"w":61,"h":72},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_323.png":
+{
+	"frame": {"x":2073,"y":240,"w":58,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":315,"w":58,"h":73},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_324.png":
+{
+	"frame": {"x":3535,"y":240,"w":56,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":315,"w":56,"h":75},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_325.png":
+{
+	"frame": {"x":902,"y":615,"w":53,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":271,"w":53,"h":90},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_326.png":
+{
+	"frame": {"x":3947,"y":359,"w":68,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":273,"y":273,"w":68,"h":81},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_327.png":
+{
+	"frame": {"x":115,"y":615,"w":68,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":273,"w":68,"h":87},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_328.png":
+{
+	"frame": {"x":227,"y":615,"w":68,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":273,"w":68,"h":87},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_329.png":
+{
+	"frame": {"x":537,"y":615,"w":60,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":283,"y":276,"w":60,"h":89},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_330.png":
+{
+	"frame": {"x":3550,"y":615,"w":59,"h":94},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":284,"y":266,"w":59,"h":94},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_331.png":
+{
+	"frame": {"x":1958,"y":754,"w":62,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":281,"y":263,"w":62,"h":97},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_332.png":
+{
+	"frame": {"x":339,"y":615,"w":61,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":284,"y":269,"w":61,"h":88},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_333.png":
+{
+	"frame": {"x":3039,"y":359,"w":82,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":262,"y":268,"w":82,"h":79},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_334.png":
+{
+	"frame": {"x":1585,"y":359,"w":84,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":264,"y":269,"w":84,"h":77},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_335.png":
+{
+	"frame": {"x":1713,"y":359,"w":84,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":264,"y":269,"w":84,"h":77},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_336.png":
+{
+	"frame": {"x":1841,"y":359,"w":59,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":271,"w":59,"h":77},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_337.png":
+{
+	"frame": {"x":1908,"y":484,"w":57,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":283,"y":276,"w":57,"h":84},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_338.png":
+{
+	"frame": {"x":3439,"y":1488,"w":57,"h":107},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":291,"y":273,"w":57,"h":107},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_339.png":
+{
+	"frame": {"x":2823,"y":1949,"w":71,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":283,"y":260,"w":71,"h":119},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_340.png":
+{
+	"frame": {"x":1996,"y":1949,"w":73,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":279,"y":263,"w":73,"h":117},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_341.png":
+{
+	"frame": {"x":2113,"y":1949,"w":73,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":279,"y":263,"w":73,"h":117},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_342.png":
+{
+	"frame": {"x":3540,"y":1488,"w":88,"h":107},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":264,"y":273,"w":88,"h":107},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_343.png":
+{
+	"frame": {"x":3439,"y":1488,"w":57,"h":107},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":291,"y":273,"w":57,"h":107},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_344.png":
+{
+	"frame": {"x":575,"y":1792,"w":50,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":292,"y":274,"w":50,"h":110},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_345.png":
+{
+	"frame": {"x":1083,"y":1792,"w":54,"h":111},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":284,"y":272,"w":54,"h":111},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_346.png":
+{
+	"frame": {"x":3525,"y":1949,"w":81,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":253,"y":260,"w":81,"h":122},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_347.png":
+{
+	"frame": {"x":2524,"y":1792,"w":56,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":279,"y":265,"w":56,"h":112},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_348.png":
+{
+	"frame": {"x":1181,"y":1792,"w":61,"h":111},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":279,"y":259,"w":61,"h":111},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_349.png":
+{
+	"frame": {"x":3532,"y":897,"w":81,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":265,"y":260,"w":81,"h":101},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_350.png":
+{
+	"frame": {"x":1646,"y":240,"w":57,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":283,"y":276,"w":57,"h":72},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_351.png":
+{
+	"frame": {"x":2581,"y":359,"w":62,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":282,"y":275,"w":62,"h":78},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_352.png":
+{
+	"frame": {"x":2748,"y":240,"w":62,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":282,"y":275,"w":62,"h":74},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_353.png":
+{
+	"frame": {"x":2854,"y":240,"w":62,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":282,"y":275,"w":62,"h":74},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_354.png":
+{
+	"frame": {"x":3943,"y":240,"w":65,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":281,"y":275,"w":65,"h":75},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_355.png":
+{
+	"frame": {"x":2009,"y":484,"w":55,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":290,"y":271,"w":55,"h":84},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_356.png":
+{
+	"frame": {"x":1413,"y":484,"w":66,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":280,"y":271,"w":66,"h":83},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_357.png":
+{
+	"frame": {"x":899,"y":240,"w":101,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":252,"y":276,"w":101,"h":71},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_358.png":
+{
+	"frame": {"x":1044,"y":240,"w":97,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":254,"y":275,"w":97,"h":71},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_359.png":
+{
+	"frame": {"x":3165,"y":359,"w":90,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":259,"y":275,"w":90,"h":79},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_360.png":
+{
+	"frame": {"x":3672,"y":1488,"w":65,"h":107},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":283,"y":280,"w":65,"h":107},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_361.png":
+{
+	"frame": {"x":275,"y":897,"w":71,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":308,"y":287,"w":71,"h":99},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_362.png":
+{
+	"frame": {"x":3781,"y":1488,"w":58,"h":107},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":301,"y":279,"w":58,"h":107},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_363.png":
+{
+	"frame": {"x":3883,"y":1488,"w":112,"h":107},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":250,"y":279,"w":112,"h":107},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_364.png":
+{
+	"frame": {"x":1016,"y":1190,"w":117,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":244,"y":282,"w":117,"h":104},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_365.png":
+{
+	"frame": {"x":2505,"y":1339,"w":120,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":245,"y":281,"w":120,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_366.png":
+{
+	"frame": {"x":22,"y":1639,"w":108,"h":107},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":256,"y":279,"w":108,"h":107},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_367.png":
+{
+	"frame": {"x":174,"y":1639,"w":69,"h":107},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":279,"w":69,"h":107},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_368.png":
+{
+	"frame": {"x":2669,"y":1339,"w":59,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":282,"w":59,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_369.png":
+{
+	"frame": {"x":2375,"y":128,"w":80,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":285,"y":320,"w":80,"h":66},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_370.png":
+{
+	"frame": {"x":3943,"y":128,"w":81,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":323,"w":81,"h":68},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_371.png":
+{
+	"frame": {"x":3748,"y":22,"w":133,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":233,"y":330,"w":133,"h":61},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_372.png":
+{
+	"frame": {"x":811,"y":128,"w":129,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":237,"y":329,"w":129,"h":63},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_373.png":
+{
+	"frame": {"x":984,"y":128,"w":129,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":237,"y":329,"w":129,"h":63},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_374.png":
+{
+	"frame": {"x":22,"y":240,"w":105,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":262,"y":323,"w":105,"h":68},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_375.png":
+{
+	"frame": {"x":2499,"y":128,"w":85,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":280,"y":320,"w":85,"h":66},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_376.png":
+{
+	"frame": {"x":22,"y":359,"w":58,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":315,"w":58,"h":75},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_377.png":
+{
+	"frame": {"x":904,"y":1339,"w":62,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":285,"y":282,"w":62,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_378.png":
+{
+	"frame": {"x":522,"y":1190,"w":71,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":282,"w":71,"h":104},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_379.png":
+{
+	"frame": {"x":1177,"y":1190,"w":73,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":272,"y":282,"w":73,"h":104},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_380.png":
+{
+	"frame": {"x":3657,"y":897,"w":93,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":250,"y":285,"w":93,"h":101},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_381.png":
+{
+	"frame": {"x":1819,"y":897,"w":85,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":257,"y":286,"w":85,"h":100},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_382.png":
+{
+	"frame": {"x":1948,"y":897,"w":75,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":268,"y":286,"w":75,"h":100},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_383.png":
+{
+	"frame": {"x":2666,"y":1042,"w":72,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":272,"y":283,"w":72,"h":103},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_384.png":
+{
+	"frame": {"x":1294,"y":1190,"w":71,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":282,"w":71,"h":104},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_385.png":
+{
+	"frame": {"x":904,"y":1339,"w":62,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":285,"y":282,"w":62,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_386.png":
+{
+	"frame": {"x":2067,"y":897,"w":61,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":278,"y":285,"w":61,"h":100},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_387.png":
+{
+	"frame": {"x":1409,"y":1190,"w":67,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":258,"y":281,"w":67,"h":104},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_388.png":
+{
+	"frame": {"x":1871,"y":2117,"w":48,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":277,"y":252,"w":48,"h":133},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_389.png":
+{
+	"frame": {"x":1050,"y":2117,"w":46,"h":129},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":278,"y":256,"w":46,"h":129},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_390.png":
+{
+	"frame": {"x":2772,"y":1339,"w":67,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":258,"y":280,"w":67,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_391.png":
+{
+	"frame": {"x":2172,"y":897,"w":61,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":278,"y":285,"w":61,"h":100},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_392.png":
+{
+	"frame": {"x":1197,"y":754,"w":58,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":289,"y":290,"w":58,"h":97},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_393.png":
+{
+	"frame": {"x":904,"y":1339,"w":62,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":285,"y":282,"w":62,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_394.png":
+{
+	"frame": {"x":522,"y":1190,"w":71,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":282,"w":71,"h":104},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_395.png":
+{
+	"frame": {"x":1520,"y":1190,"w":73,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":272,"y":282,"w":73,"h":104},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_396.png":
+{
+	"frame": {"x":1637,"y":1190,"w":100,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":243,"y":282,"w":100,"h":104},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_397.png":
+{
+	"frame": {"x":1781,"y":1190,"w":99,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":243,"y":282,"w":99,"h":104},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_398.png":
+{
+	"frame": {"x":1924,"y":1190,"w":92,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":251,"y":282,"w":92,"h":104},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_399.png":
+{
+	"frame": {"x":2060,"y":1190,"w":72,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":272,"y":282,"w":72,"h":104},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_400.png":
+{
+	"frame": {"x":1294,"y":1190,"w":71,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":282,"w":71,"h":104},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_401.png":
+{
+	"frame": {"x":904,"y":1339,"w":62,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":285,"y":282,"w":62,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_402.png":
+{
+	"frame": {"x":2960,"y":240,"w":57,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":316,"w":57,"h":74},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_403.png":
+{
+	"frame": {"x":124,"y":359,"w":60,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":283,"y":316,"w":60,"h":75},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_404.png":
+{
+	"frame": {"x":228,"y":359,"w":92,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":251,"y":317,"w":92,"h":75},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_405.png":
+{
+	"frame": {"x":364,"y":359,"w":91,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":252,"y":317,"w":91,"h":75},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_406.png":
+{
+	"frame": {"x":3061,"y":240,"w":70,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":273,"y":317,"w":70,"h":74},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_407.png":
+{
+	"frame": {"x":2380,"y":240,"w":57,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":316,"w":57,"h":74},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_408.png":
+{
+	"frame": {"x":499,"y":359,"w":58,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":315,"w":58,"h":75},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_409.png":
+{
+	"frame": {"x":2009,"y":484,"w":55,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":290,"y":271,"w":55,"h":84},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_410.png":
+{
+	"frame": {"x":278,"y":484,"w":62,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":282,"y":273,"w":62,"h":82},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_411.png":
+{
+	"frame": {"x":22,"y":484,"w":108,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":247,"y":271,"w":108,"h":81},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_412.png":
+{
+	"frame": {"x":3800,"y":359,"w":103,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":249,"y":270,"w":103,"h":80},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_413.png":
+{
+	"frame": {"x":384,"y":484,"w":83,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":261,"y":273,"w":83,"h":82},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_414.png":
+{
+	"frame": {"x":2176,"y":1190,"w":71,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":282,"w":71,"h":104},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_415.png":
+{
+	"frame": {"x":390,"y":897,"w":73,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":271,"y":287,"w":73,"h":99},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_416.png":
+{
+	"frame": {"x":819,"y":754,"w":76,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":269,"y":290,"w":76,"h":96},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_417.png":
+{
+	"frame": {"x":125,"y":754,"w":82,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":263,"y":291,"w":82,"h":95},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_418.png":
+{
+	"frame": {"x":251,"y":754,"w":101,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":244,"y":291,"w":101,"h":95},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_419.png":
+{
+	"frame": {"x":396,"y":754,"w":101,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":244,"y":291,"w":101,"h":95},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_420.png":
+{
+	"frame": {"x":2809,"y":615,"w":101,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":244,"y":293,"w":101,"h":93},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_421.png":
+{
+	"frame": {"x":2954,"y":615,"w":101,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":244,"y":293,"w":101,"h":93},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_422.png":
+{
+	"frame": {"x":541,"y":754,"w":98,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":248,"y":291,"w":98,"h":95},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_423.png":
+{
+	"frame": {"x":2064,"y":754,"w":83,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":262,"y":289,"w":83,"h":97},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_424.png":
+{
+	"frame": {"x":1192,"y":1042,"w":80,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":265,"y":284,"w":80,"h":102},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_425.png":
+{
+	"frame": {"x":2291,"y":1190,"w":71,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":282,"w":71,"h":104},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_426.png":
+{
+	"frame": {"x":685,"y":1339,"w":60,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":282,"w":60,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_427.png":
+{
+	"frame": {"x":1884,"y":128,"w":63,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":284,"y":321,"w":63,"h":65},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_428.png":
+{
+	"frame": {"x":3104,"y":484,"w":69,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":278,"y":301,"w":69,"h":85},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_429.png":
+{
+	"frame": {"x":2883,"y":1339,"w":71,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":281,"w":71,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_430.png":
+{
+	"frame": {"x":3211,"y":2117,"w":53,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":284,"y":235,"w":53,"h":146},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_431.png":
+{
+	"frame": {"x":2816,"y":2117,"w":39,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":291,"y":239,"w":39,"h":143},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_432.png":
+{
+	"frame": {"x":2736,"y":2117,"w":36,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":297,"y":239,"w":36,"h":141},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_433.png":
+{
+	"frame": {"x":2268,"y":2117,"w":42,"h":138},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":291,"y":240,"w":42,"h":138},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_434.png":
+{
+	"frame": {"x":2354,"y":2117,"w":54,"h":138},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":290,"y":241,"w":54,"h":138},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_435.png":
+{
+	"frame": {"x":2452,"y":2117,"w":55,"h":138},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":243,"w":55,"h":138},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_436.png":
+{
+	"frame": {"x":2551,"y":2117,"w":55,"h":138},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":243,"w":55,"h":138},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_437.png":
+{
+	"frame": {"x":1314,"y":1949,"w":61,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":273,"w":61,"h":114},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_438.png":
+{
+	"frame": {"x":96,"y":22,"w":27,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":296,"w":27,"h":30},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_439.png":
+{
+	"frame": {"x":771,"y":22,"w":19,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":294,"y":235,"w":19,"h":45},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_440.png":
+{
+	"frame": {"x":167,"y":22,"w":29,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":301,"y":239,"w":29,"h":31},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_441.png":
+{
+	"frame": {"x":1756,"y":1949,"w":66,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":268,"w":66,"h":116},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_442.png":
+{
+	"frame": {"x":2406,"y":1190,"w":62,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":290,"y":266,"w":62,"h":104},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_443.png":
+{
+	"frame": {"x":849,"y":359,"w":49,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":301,"y":271,"w":49,"h":76},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_444.png":
+{
+	"frame": {"x":2512,"y":1190,"w":71,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":296,"y":263,"w":71,"h":104},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_445.png":
+{
+	"frame": {"x":2624,"y":1792,"w":54,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":289,"y":261,"w":54,"h":112},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_446.png":
+{
+	"frame": {"x":669,"y":1792,"w":75,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":261,"y":262,"w":75,"h":110},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_447.png":
+{
+	"frame": {"x":3192,"y":1639,"w":83,"h":109},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":253,"y":263,"w":83,"h":109},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_448.png":
+{
+	"frame": {"x":3319,"y":1639,"w":51,"h":109},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":292,"y":264,"w":51,"h":109},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_449.png":
+{
+	"frame": {"x":1286,"y":1792,"w":83,"h":111},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":295,"y":263,"w":83,"h":111},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_450.png":
+{
+	"frame": {"x":3414,"y":1639,"w":84,"h":109},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":289,"y":264,"w":84,"h":109},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_451.png":
+{
+	"frame": {"x":3542,"y":1639,"w":51,"h":109},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":290,"y":263,"w":51,"h":109},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_452.png":
+{
+	"frame": {"x":788,"y":1792,"w":63,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":273,"y":262,"w":63,"h":110},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_453.png":
+{
+	"frame": {"x":3637,"y":1639,"w":72,"h":109},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":264,"y":263,"w":72,"h":109},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_454.png":
+{
+	"frame": {"x":3753,"y":1639,"w":51,"h":109},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":292,"y":264,"w":51,"h":109},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_455.png":
+{
+	"frame": {"x":1413,"y":1792,"w":78,"h":111},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":295,"y":263,"w":78,"h":111},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_456.png":
+{
+	"frame": {"x":3848,"y":1639,"w":76,"h":109},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":289,"y":264,"w":76,"h":109},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_457.png":
+{
+	"frame": {"x":3968,"y":1639,"w":52,"h":109},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":290,"y":263,"w":52,"h":109},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_458.png":
+{
+	"frame": {"x":2627,"y":1190,"w":70,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":293,"y":283,"w":70,"h":104},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_459.png":
+{
+	"frame": {"x":287,"y":1639,"w":82,"h":107},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":294,"y":280,"w":82,"h":107},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_460.png":
+{
+	"frame": {"x":413,"y":1639,"w":96,"h":107},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":280,"y":279,"w":96,"h":107},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_461.png":
+{
+	"frame": {"x":2277,"y":897,"w":101,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":266,"y":269,"w":101,"h":100},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_462.png":
+{
+	"frame": {"x":1491,"y":615,"w":107,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":278,"y":251,"w":107,"h":91},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_463.png":
+{
+	"frame": {"x":3794,"y":897,"w":107,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":262,"y":289,"w":107,"h":101},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_464.png":
+{
+	"frame": {"x":3945,"y":897,"w":121,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":252,"y":295,"w":121,"h":101},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_465.png":
+{
+	"frame": {"x":2474,"y":22,"w":101,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":252,"y":343,"w":101,"h":57},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_466.png":
+{
+	"frame": {"x":2873,"y":128,"w":88,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":271,"y":331,"w":88,"h":67},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_467.png":
+{
+	"frame": {"x":2798,"y":359,"w":77,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":280,"y":311,"w":77,"h":79},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_468.png":
+{
+	"frame": {"x":1731,"y":754,"w":58,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":290,"w":58,"h":97},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_469.png":
+{
+	"frame": {"x":3079,"y":1639,"w":69,"h":109},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":277,"w":69,"h":109},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_470.png":
+{
+	"frame": {"x":2998,"y":1339,"w":68,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":278,"y":282,"w":68,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_471.png":
+{
+	"frame": {"x":1528,"y":1488,"w":60,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":272,"y":281,"w":60,"h":106},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_472.png":
+{
+	"frame": {"x":1632,"y":1488,"w":54,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":281,"w":54,"h":106},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_473.png":
+{
+	"frame": {"x":1797,"y":1639,"w":42,"h":108},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":277,"y":279,"w":42,"h":108},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_474.png":
+{
+	"frame": {"x":2230,"y":1949,"w":97,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":230,"y":270,"w":97,"h":117},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_475.png":
+{
+	"frame": {"x":1883,"y":1639,"w":84,"h":108},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":242,"y":279,"w":84,"h":108},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_476.png":
+{
+	"frame": {"x":553,"y":1639,"w":71,"h":107},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":257,"y":280,"w":71,"h":107},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_477.png":
+{
+	"frame": {"x":1730,"y":1488,"w":84,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":266,"y":281,"w":84,"h":106},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_478.png":
+{
+	"frame": {"x":3110,"y":1339,"w":70,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":279,"y":282,"w":70,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_479.png":
+{
+	"frame": {"x":3224,"y":1339,"w":58,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":282,"w":58,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_480.png":
+{
+	"frame": {"x":582,"y":1339,"w":59,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":282,"w":59,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_481.png":
+{
+	"frame": {"x":895,"y":1792,"w":50,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":277,"w":50,"h":110},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_482.png":
+{
+	"frame": {"x":3756,"y":1949,"w":56,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":260,"y":264,"w":56,"h":123},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_483.png":
+{
+	"frame": {"x":3079,"y":1639,"w":69,"h":109},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":277,"w":69,"h":109},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_484.png":
+{
+	"frame": {"x":2039,"y":1339,"w":70,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":278,"y":282,"w":70,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_485.png":
+{
+	"frame": {"x":3326,"y":1339,"w":60,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":266,"y":282,"w":60,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_486.png":
+{
+	"frame": {"x":1866,"y":1949,"w":86,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":231,"y":271,"w":86,"h":116},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_487.png":
+{
+	"frame": {"x":1858,"y":1488,"w":81,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":239,"y":281,"w":81,"h":106},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_488.png":
+{
+	"frame": {"x":1983,"y":1488,"w":64,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":261,"y":281,"w":64,"h":106},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_489.png":
+{
+	"frame": {"x":1316,"y":1042,"w":62,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":270,"y":285,"w":62,"h":102},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_490.png":
+{
+	"frame": {"x":3352,"y":754,"w":62,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":280,"y":289,"w":62,"h":98},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_491.png":
+{
+	"frame": {"x":1091,"y":1042,"w":57,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":285,"y":285,"w":57,"h":102},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_492.png":
+{
+	"frame": {"x":915,"y":1190,"w":57,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":289,"y":283,"w":57,"h":104},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_493.png":
+{
+	"frame": {"x":2403,"y":1339,"w":58,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":289,"y":282,"w":58,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_494.png":
+{
+	"frame": {"x":3175,"y":1949,"w":66,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":249,"y":266,"w":66,"h":121},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_495.png":
+{
+	"frame": {"x":2741,"y":1190,"w":66,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":289,"y":282,"w":66,"h":104},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_496.png":
+{
+	"frame": {"x":2782,"y":1042,"w":76,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":272,"y":284,"w":76,"h":103},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_497.png":
+{
+	"frame": {"x":507,"y":897,"w":66,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":278,"y":288,"w":66,"h":99},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_498.png":
+{
+	"frame": {"x":2011,"y":1639,"w":58,"h":108},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":277,"y":279,"w":58,"h":108},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_499.png":
+{
+	"frame": {"x":1535,"y":1792,"w":95,"h":111},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":242,"y":276,"w":95,"h":111},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_500.png":
+{
+	"frame": {"x":668,"y":1639,"w":102,"h":107},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":234,"y":280,"w":102,"h":107},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_501.png":
+{
+	"frame": {"x":2191,"y":754,"w":94,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":240,"y":290,"w":94,"h":97},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_502.png":
+{
+	"frame": {"x":617,"y":897,"w":57,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":271,"y":288,"w":57,"h":99},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_503.png":
+{
+	"frame": {"x":3430,"y":1339,"w":48,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":285,"y":282,"w":48,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_504.png":
+{
+	"frame": {"x":3522,"y":1339,"w":58,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":282,"w":58,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_505.png":
+{
+	"frame": {"x":582,"y":1339,"w":59,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":282,"w":59,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_506.png":
+{
+	"frame": {"x":895,"y":1792,"w":50,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":277,"w":50,"h":110},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_507.png":
+{
+	"frame": {"x":3756,"y":1949,"w":56,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":260,"y":264,"w":56,"h":123},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_508.png":
+{
+	"frame": {"x":1459,"y":2117,"w":63,"h":132},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":249,"y":255,"w":63,"h":132},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_509.png":
+{
+	"frame": {"x":2064,"y":2117,"w":61,"h":137},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":245,"y":250,"w":61,"h":137},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_510.png":
+{
+	"frame": {"x":1510,"y":1949,"w":97,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":212,"y":272,"w":97,"h":115},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_511.png":
+{
+	"frame": {"x":3624,"y":1339,"w":113,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":200,"y":282,"w":113,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_512.png":
+{
+	"frame": {"x":3781,"y":1339,"w":64,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":246,"y":282,"w":64,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_513.png":
+{
+	"frame": {"x":2091,"y":1488,"w":45,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":276,"y":281,"w":45,"h":106},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_514.png":
+{
+	"frame": {"x":3430,"y":1339,"w":48,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":285,"y":282,"w":48,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_515.png":
+{
+	"frame": {"x":3522,"y":1339,"w":58,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":282,"w":58,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_516.png":
+{
+	"frame": {"x":582,"y":1339,"w":59,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":282,"w":59,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_517.png":
+{
+	"frame": {"x":3889,"y":1339,"w":71,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":281,"w":71,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_518.png":
+{
+	"frame": {"x":3308,"y":2117,"w":53,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":284,"y":235,"w":53,"h":146},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_519.png":
+{
+	"frame": {"x":2899,"y":2117,"w":39,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":291,"y":239,"w":39,"h":143},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_520.png":
+{
+	"frame": {"x":1884,"y":128,"w":63,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":284,"y":321,"w":63,"h":65},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_521.png":
+{
+	"frame": {"x":3104,"y":484,"w":69,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":278,"y":301,"w":69,"h":85},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_522.png":
+{
+	"frame": {"x":2883,"y":1339,"w":71,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":281,"w":71,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_523.png":
+{
+	"frame": {"x":3956,"y":2117,"w":66,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":277,"y":234,"w":66,"h":149},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_524.png":
+{
+	"frame": {"x":3829,"y":2117,"w":83,"h":148},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":266,"y":235,"w":83,"h":148},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_525.png":
+{
+	"frame": {"x":3405,"y":2117,"w":48,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":294,"y":237,"w":48,"h":146},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_526.png":
+{
+	"frame": {"x":3497,"y":2117,"w":72,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":238,"w":72,"h":146},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_527.png":
+{
+	"frame": {"x":3720,"y":2117,"w":65,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":291,"y":238,"w":65,"h":147},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_528.png":
+{
+	"frame": {"x":3613,"y":2117,"w":63,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":279,"y":237,"w":63,"h":146},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_529.png":
+{
+	"frame": {"x":2816,"y":2117,"w":39,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":291,"y":239,"w":39,"h":143},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_530.png":
+{
+	"frame": {"x":2736,"y":2117,"w":36,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":297,"y":239,"w":36,"h":141},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_531.png":
+{
+	"frame": {"x":2650,"y":2117,"w":42,"h":138},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":291,"y":240,"w":42,"h":138},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_532.png":
+{
+	"frame": {"x":2354,"y":2117,"w":54,"h":138},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":290,"y":241,"w":54,"h":138},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_533.png":
+{
+	"frame": {"x":2452,"y":2117,"w":55,"h":138},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":243,"w":55,"h":138},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_534.png":
+{
+	"frame": {"x":2551,"y":2117,"w":55,"h":138},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":243,"w":55,"h":138},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_535.png":
+{
+	"frame": {"x":1314,"y":1949,"w":61,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":273,"w":61,"h":114},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_536.png":
+{
+	"frame": {"x":2422,"y":897,"w":79,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":271,"y":287,"w":79,"h":100},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_537.png":
+{
+	"frame": {"x":22,"y":1042,"w":65,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":295,"y":286,"w":65,"h":101},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_538.png":
+{
+	"frame": {"x":2851,"y":1190,"w":60,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":304,"y":283,"w":60,"h":104},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_539.png":
+{
+	"frame": {"x":1642,"y":615,"w":75,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":305,"y":296,"w":75,"h":91},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_540.png":
+{
+	"frame": {"x":1523,"y":484,"w":61,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":311,"y":304,"w":61,"h":83},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_541.png":
+{
+	"frame": {"x":2687,"y":359,"w":67,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":308,"y":309,"w":67,"h":78},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_542.png":
+{
+	"frame": {"x":942,"y":359,"w":70,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":307,"y":311,"w":70,"h":76},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_543.png":
+{
+	"frame": {"x":2108,"y":484,"w":78,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":303,"w":78,"h":84},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_544.png":
+{
+	"frame": {"x":2545,"y":897,"w":61,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":291,"y":287,"w":61,"h":100},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_545.png":
+{
+	"frame": {"x":2650,"y":897,"w":59,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":283,"y":287,"w":59,"h":100},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_546.png":
+{
+	"frame": {"x":3217,"y":484,"w":70,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":301,"y":302,"w":70,"h":85},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_547.png":
+{
+	"frame": {"x":1396,"y":128,"w":75,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":297,"y":323,"w":75,"h":64},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_548.png":
+{
+	"frame": {"x":1515,"y":128,"w":122,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":283,"y":323,"w":122,"h":64},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_549.png":
+{
+	"frame": {"x":3480,"y":128,"w":114,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":320,"w":114,"h":67},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_550.png":
+{
+	"frame": {"x":2199,"y":22,"w":98,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":289,"y":333,"w":98,"h":55},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_551.png":
+{
+	"frame": {"x":1263,"y":22,"w":99,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":337,"w":99,"h":50},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_552.png":
+{
+	"frame": {"x":2628,"y":128,"w":78,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":295,"y":321,"w":78,"h":66},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_553.png":
+{
+	"frame": {"x":2329,"y":754,"w":58,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":294,"y":290,"w":58,"h":97},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_554.png":
+{
+	"frame": {"x":281,"y":128,"w":93,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":262,"y":328,"w":93,"h":62},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_555.png":
+{
+	"frame": {"x":3099,"y":615,"w":62,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":269,"y":293,"w":62,"h":93},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_556.png":
+{
+	"frame": {"x":418,"y":128,"w":93,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":273,"y":308,"w":93,"h":62},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_557.png":
+{
+	"frame": {"x":3205,"y":615,"w":62,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":299,"y":296,"w":62,"h":93},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_558.png":
+{
+	"frame": {"x":4004,"y":1339,"w":59,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":282,"w":59,"h":105},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_559.png":
+{
+	"frame": {"x":2180,"y":1488,"w":70,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":281,"w":70,"h":106},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_560.png":
+{
+	"frame": {"x":2902,"y":1042,"w":81,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":284,"w":81,"h":103},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_561.png":
+{
+	"frame": {"x":1422,"y":1042,"w":92,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":285,"y":285,"w":92,"h":102},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_562.png":
+{
+	"frame": {"x":2955,"y":1190,"w":58,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":283,"w":58,"h":104},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_563.png":
+{
+	"frame": {"x":2753,"y":897,"w":63,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":290,"y":286,"w":63,"h":100},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_564.png":
+{
+	"frame": {"x":641,"y":615,"w":75,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":293,"y":297,"w":75,"h":89},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_565.png":
+{
+	"frame": {"x":2230,"y":484,"w":80,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":296,"y":301,"w":80,"h":84},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_566.png":
+{
+	"frame": {"x":2354,"y":484,"w":80,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":297,"y":303,"w":80,"h":84},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_567.png":
+{
+	"frame": {"x":1056,"y":359,"w":61,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":314,"w":61,"h":76},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_568.png":
+{
+	"frame": {"x":1944,"y":359,"w":71,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":289,"y":312,"w":71,"h":77},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_569.png":
+{
+	"frame": {"x":3175,"y":240,"w":80,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":289,"y":314,"w":80,"h":74},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_570.png":
+{
+	"frame": {"x":3299,"y":240,"w":90,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":289,"y":314,"w":90,"h":74},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_571.png":
+{
+	"frame": {"x":3143,"y":22,"w":116,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":255,"y":323,"w":116,"h":59},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_572.png":
+{
+	"frame": {"x":511,"y":484,"w":86,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":273,"y":290,"w":86,"h":82},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_573.png":
+{
+	"frame": {"x":3303,"y":22,"w":105,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":253,"y":294,"w":105,"h":59},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_574.png":
+{
+	"frame": {"x":2938,"y":1949,"w":59,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":290,"y":274,"w":59,"h":120},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_575.png":
+{
+	"frame": {"x":2419,"y":615,"w":100,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":263,"y":292,"w":100,"h":92},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_576.png":
+{
+	"frame": {"x":385,"y":22,"w":108,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":254,"y":311,"w":108,"h":40},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_577.png":
+{
+	"frame": {"x":1628,"y":484,"w":93,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":267,"y":288,"w":93,"h":83},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_578.png":
+{
+	"frame": {"x":3458,"y":754,"w":58,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":291,"y":289,"w":58,"h":98},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_579.png":
+{
+	"frame": {"x":2750,"y":128,"w":79,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":282,"y":318,"w":79,"h":66},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_580.png":
+{
+	"frame": {"x":3579,"y":22,"w":125,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":249,"y":314,"w":125,"h":60},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_581.png":
+{
+	"frame": {"x":2619,"y":22,"w":115,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":256,"y":322,"w":115,"h":57},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_582.png":
+{
+	"frame": {"x":1796,"y":22,"w":114,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":256,"y":334,"w":114,"h":52},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_583.png":
+{
+	"frame": {"x":939,"y":22,"w":118,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":253,"y":341,"w":118,"h":48},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_584.png":
+{
+	"frame": {"x":1101,"y":22,"w":118,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":253,"y":341,"w":118,"h":48},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_585.png":
+{
+	"frame": {"x":3027,"y":1042,"w":60,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":290,"y":284,"w":60,"h":103},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_586.png":
+{
+	"frame": {"x":1558,"y":1042,"w":60,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":290,"y":285,"w":60,"h":102},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_587.png":
+{
+	"frame": {"x":131,"y":1042,"w":61,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":290,"y":286,"w":61,"h":101},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_588.png":
+{
+	"frame": {"x":236,"y":1042,"w":61,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":290,"y":286,"w":61,"h":101},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_589.png":
+{
+	"frame": {"x":3057,"y":1190,"w":61,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":290,"y":283,"w":61,"h":104},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_590.png":
+{
+	"frame": {"x":3162,"y":1190,"w":60,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":290,"y":283,"w":60,"h":104},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_591.png":
+{
+	"frame": {"x":2419,"y":615,"w":100,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":263,"y":292,"w":100,"h":92},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_592.png":
+{
+	"frame": {"x":2860,"y":897,"w":92,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":268,"y":289,"w":92,"h":100},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_593.png":
+{
+	"frame": {"x":1761,"y":615,"w":91,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":269,"y":290,"w":91,"h":91},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_594.png":
+{
+	"frame": {"x":1896,"y":615,"w":91,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":271,"y":292,"w":91,"h":91},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_595.png":
+{
+	"frame": {"x":341,"y":1042,"w":65,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":286,"w":65,"h":101},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_596.png":
+{
+	"frame": {"x":2175,"y":240,"w":59,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":289,"y":313,"w":59,"h":73},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_597.png":
+{
+	"frame": {"x":1161,"y":359,"w":58,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":290,"y":310,"w":58,"h":76},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_598.png":
+{
+	"frame": {"x":1185,"y":240,"w":71,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":282,"y":316,"w":71,"h":71},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_599.png":
+{
+	"frame": {"x":555,"y":128,"w":96,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":266,"y":323,"w":96,"h":62},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_600.png":
+{
+	"frame": {"x":3285,"y":1949,"w":91,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":291,"y":257,"w":91,"h":121},
+	"sourceSize": {"w":640,"h":512}
+},
+"Ken Masters_601.png":
+{
+	"frame": {"x":247,"y":2117,"w":95,"h":125},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":291,"y":254,"w":95,"h":125},
+	"sourceSize": {"w":640,"h":512}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "ken.png",
+	"format": "RGBA8888",
+	"size": {"w":4088,"h":2288},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:539c6340d17c1c1491d43a0940e8374a:5a9f291ba93d1613a6806d7cdfd3b5c3:f4935e8a4fa9416b8fdb69b633357352$"
+}
+}
