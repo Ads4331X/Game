@@ -226,9 +226,9 @@ export interface CharacterRosterEntry {
     gameplayRange: (anim: GameplayAnimId) => FrameRange;
 }
 
-const ryuPfpUrl = new URL("./assets/fighters/ryu-pfp.png", import.meta.url).href;
-const chunLiPfpUrl = new URL("./assets/fighters/chunLi-pfp.png", import.meta.url).href;
-const kenPfpUrl = new URL("./assets/fighters/ken-pfp.png", import.meta.url).href;
+const ryuPfpUrl = new URL("./public/assets/fighters/ryu-pfp.png", import.meta.url).href;
+const chunLiPfpUrl = new URL("./public/assets/fighters/chunLi-pfp.png", import.meta.url).href;
+const kenPfpUrl = new URL("./public/assets/fighters/ken-pfp.png", import.meta.url).href;
 
 export const CHARACTER_ROSTER: readonly CharacterRosterEntry[] = [
     {
